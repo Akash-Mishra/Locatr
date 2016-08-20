@@ -21,6 +21,6 @@ public class LocatrFragment extends Fragment {
         View v = inflater.inflate(R.layout.fragment_locatr, container, false);
         mImageView = (ImageView) v.findViewById(R.id.image);
         return v;
-        
+
     }
 }
